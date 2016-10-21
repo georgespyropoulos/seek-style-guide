@@ -10,6 +10,7 @@ const titles = {
   '/buttons': 'buttons',
   '/textfields': 'text fields',
   '/autosuggest': 'autosuggest',
+  '/monthpicker': 'month picker',
   '/typography': 'typography'
 };
 
